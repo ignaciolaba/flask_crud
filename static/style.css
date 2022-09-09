@@ -1,0 +1,12 @@
+body {
+    margin: auto 20%;
+}
+
+table {
+    margin-top: 50px;
+}
+
+.titulo {
+    display: flex;
+    justify-content: space-between;
+}
